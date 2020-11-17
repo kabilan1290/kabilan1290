@@ -1,7 +1,7 @@
 ### Hey Everyone!! 👋
 
 <!--
-**kabilan1290/kabilan1290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kabilan1290/kabilan1290 wow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
