@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabilan1290&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kabilan1290&theme=synthwave)  
+<!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kabilan1290&theme=synthwave)  
 
-<hr>
+
