@@ -1,6 +1,6 @@
 ### Hey Everyone!! 👋
 
-Kabilan here! Currently learning cryptography !
+<img src="https://c.tenor.com/jjMcj2k7U5MAAAAd/gojo-gojo-satoru.gif">
 
 <!--
 **kabilan1290/kabilan1290 wow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
