@@ -1,4 +1,6 @@
-### Hey Everyone!! 👋
+### "The world isn't perfect. But it's there for us, doing the best it can....that's what makes it so damn beautiful."
+~ Roy Mustang
+<br>
 
 <img src="https://raw.githubusercontent.com/kabilan1290/kabilan1290/main/gojo-gojo-satoru.gif">
 
@@ -16,6 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<hr>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kabilan1290&show_icons=true&theme=synthwave)
 
